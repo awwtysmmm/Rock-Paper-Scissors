@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 <br>
-# Rock Paper Scissors 🎮
+Rock Paper Scissors 🎮
 
 A simple and interactive **Rock Paper Scissors game** where the player competes against the computer.The computer randomly selects one of the three choices,and the game determines the winner based on the classic rules.
 
